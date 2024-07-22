@@ -1,12 +1,5 @@
-# Build Your Own World Design Document
+# Build Your Own World 
 
-**Partner 1:** Miles Yeh
+This was a project during my Data Structures & Algorithms Course
 
-**Partner 2:** Phoenix Toan
-
-## Classes and Data Structures
-- 
-
-## Algorithms
-
-## Persistence
+Me and my project partner developed a timed maze video game from scratch.
